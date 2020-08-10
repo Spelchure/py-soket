@@ -21,4 +21,4 @@ This projected licensed under GNU GPL v3
 [Lisans](https://github.com/Spelchure/py-soket/blob/master/LICENSE)
 
  
-![Ekran görüntüsü](https://raw.githubusercontent.com/Spelchure/py-soket/master/chatsocket.jpg)
+![Ekran görüntüsü](https://raw.githubusercontent.com/Spelchure/py-soket/master/chatsoket.jpg)
